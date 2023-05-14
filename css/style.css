@@ -4,6 +4,9 @@
     text-decoration: none;
     font-family: poppins, self-Serif;
 }
+html{
+    font-size: 1px;
+}
 header{
     padding: 20px 150px;
 }
@@ -34,15 +37,15 @@ header nav ul li:last-of-type{
     background-color: #1B1A1A;
     border-radius: 14px;
     font-weight: 400;
-    font-size: 15px;
-    line-height: 24px;
+    font-size: 15rem;
+    line-height: 24rem;
     margin-left: 16px;
 }
 header nav ul li a {
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
-    line-height: 24px;
+    font-size: 15rem;
+    line-height: 24rem;
     color: #1B1A1A;
 }
 header nav ul li:last-of-type a{
@@ -66,8 +69,8 @@ header nav ul li:last-of-type a{
 .main_banner article p:nth-child(1){
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 20px;
+    font-size: 14rem;
+    line-height: 20rem;
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #645C55;
@@ -76,24 +79,24 @@ header nav ul li:last-of-type a{
 .main_banner article p:nth-child(3){
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 16rem;
+    line-height: 24rem;
     color: #403E3B;
     padding-bottom: 30px
 }
 .main_banner article h1{
     font-style: normal;
     font-weight: 400;
-    font-size: 64px;
-    line-height: 70px;
+    font-size: 64rem;
+    line-height: 70rem;
     color: #1B1A1A;
     padding-bottom: 18px
 }
 .main_banner article span{
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 16rem;
+    line-height: 24rem;
     letter-spacing: 0.4px;
     color: #1B1A1A;
     padding-left: 25px
@@ -111,8 +114,8 @@ header nav ul li:last-of-type a{
 .our-firm-bar h2{
     font-style: normal;
     font-weight: 400;
-    font-size: 32px;
-    line-height: 38px;
+    font-size: 32rem;
+    line-height: 38rem;
     color: #403E3B;
     padding-right: 130px
 }
@@ -124,8 +127,8 @@ header nav ul li:last-of-type a{
 .text-container p{
     max-width: 493px;font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 16rem;
+    line-height: 24rem;
     color: #403E3B;
     padding-bottom: 10px
 }
@@ -141,15 +144,15 @@ header nav ul li:last-of-type a{
 .socials-text p:nth-child(1){
     font-style: normal;
     font-weight: 400;
-    font-size: 17px;
-    line-height: 26px;
+    font-size: 17rem;
+    line-height: 26rem;
     color: #1B1A1A;
 }
 .socials-text p:nth-child(2){
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 14px;
+    font-size: 14rem;
+    line-height: 14rem;
     color: #645C55;
 }
 
@@ -173,8 +176,8 @@ header nav ul li:last-of-type a{
 .second-banner article p:nth-child(1){
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 20px;
+    font-size: 14rem;
+    line-height: 20rem;
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #403E3B;
@@ -182,8 +185,8 @@ header nav ul li:last-of-type a{
 .second-banner article p:nth-child(2) {
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 16rem;
+    line-height: 24rem;
     color: #645C55;
 }
 
@@ -197,8 +200,8 @@ header nav ul li:last-of-type a{
     padding-bottom: 13px;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 20px;
+    font-size: 14rem;
+    line-height: 20rem;
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #645C55;
@@ -207,8 +210,8 @@ header nav ul li:last-of-type a{
     padding-bottom: 47px;
     font-style: normal;
     font-weight: 400;
-    font-size: 39px;
-    line-height: 42px;
+    font-size: 39rem;
+    line-height: 42rem;
     color: #1B1A1A;
 }
 .owl-carousel{
@@ -230,8 +233,8 @@ header nav ul li:last-of-type a{
 .processes p:nth-child(2){
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 26px;
+    font-size: 18rem;
+    line-height: 26rem;
     text-align: center;
     color: #403E3B;
     padding-top: 15px;
@@ -241,8 +244,8 @@ header nav ul li:last-of-type a{
     max-width: 350px;
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
-    line-height: 24px;
+    font-size: 15rem;
+    line-height: 24rem;
     text-align: center;
     color: #645C55;
 }
@@ -267,8 +270,8 @@ header nav ul li:last-of-type a{
 .third-banner article p:nth-child(1){
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 20px;
+    font-size: 14rem;
+    line-height: 20rem;
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #403E3B;
@@ -276,8 +279,8 @@ header nav ul li:last-of-type a{
 .third-banner article p:nth-child(2) {
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 16rem;
+    line-height: 24rem;
     color: #645C55;
 }
 
@@ -298,8 +301,8 @@ header nav ul li:last-of-type a{
 .customers-text h3{
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 20px;
+    font-size: 14rem;
+    line-height: 20rem;
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #ECE7E4;
@@ -307,16 +310,16 @@ header nav ul li:last-of-type a{
 .customers-text h2{
     font-style: normal;
     font-weight: 400;
-    font-size: 32px;
-    line-height: 38px;
+    font-size: 32rem;
+    line-height: 38rem;
     color: #FFFFFF;
     margin-bottom: 14px;
 }
 .customers-text p{
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
-    line-height: 24px;
+    font-size: 15rem;
+    line-height: 24rem;
     color: #ECE7E4;
 }
 .customers-logo-main{
@@ -369,8 +372,8 @@ header nav ul li:last-of-type a{
 .forth-text h3{
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 20px;
+    font-size: 14rem;
+    line-height: 20rem;
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #403E3B;
@@ -378,8 +381,8 @@ header nav ul li:last-of-type a{
 .forth-text h4{
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 16rem;
+    line-height: 24rem;
     color: #645C55;
 }
 
@@ -390,16 +393,16 @@ header nav ul li:last-of-type a{
 .featured-proj h3{
     font-style: normal;
     font-weight: 400;
-    font-size: 39px;
-    line-height: 42px;
+    font-size: 39rem;
+    line-height: 42rem;
     color: #1B1A1A;
     margin-bottom: 15px;
 }
 .featured-proj p{
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 30px;
+    font-size: 24rem;
+    line-height: 30rem;
     color: #645C55;
     margin-bottom: 42px;
     max-width: 600px;
@@ -434,8 +437,8 @@ header nav ul li:last-of-type a{
     display: block;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 20px;
+    font-size: 14rem;
+    line-height: 20rem;
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #645C55;
@@ -445,8 +448,8 @@ header nav ul li:last-of-type a{
 .featured-proj .for-notates h4{
     font-style: normal;
     font-weight: 400;
-    font-size: 23px;
-    line-height: 30px;
+    font-size: 23rem;
+    line-height: 30rem;
     color: #403E3B;
     width: 100%;
 }
@@ -454,8 +457,8 @@ header nav ul li:last-of-type a{
     display: inline-block;
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 16rem;
+    line-height: 24rem;
     letter-spacing: 0.4px;
     color: #FFFFFF;
     background-color: #1B1A1A;
@@ -467,8 +470,8 @@ header nav ul li:last-of-type a{
     display: block;
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 16rem;
+    line-height: 24rem;
     text-align: center;
     letter-spacing: 0.4px;
     color: #1B1A1A;
